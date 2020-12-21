@@ -48,3 +48,5 @@ except KeyboardInterrupt:
 
 except:
     print("An unknown error has occured.")
+    
+    #you can use name __name__==__main__ or #!/usr/bin/python3
